@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+//Тестовый тест:)
+//Чтобы понять, что JUnit работает.
 public class DaoServiceTest {
 
     @Test
